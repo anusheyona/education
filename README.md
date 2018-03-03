@@ -1,2 +1,2 @@
 # education
-this is only for test
+This is only for test
